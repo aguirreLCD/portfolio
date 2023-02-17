@@ -133,7 +133,7 @@ body {
 
 @media (max-width: 1200px) {
   .header__content {
-    padding: 7%;
+    padding: 3%;
   }
 
   .header__menu {
@@ -141,7 +141,7 @@ body {
   }
 
   .header__menu__link {
-    font-size: 1.2rem;
+    font-size: small;
   }
 
   .personal-presentation {
@@ -164,10 +164,10 @@ body {
   }
 
   .presentation__content__links__navlink {
-    font-size: 1rem;
+    font-size: small;
   }
 
   .footer_content {
-    font-size: 1rem;
+    font-size: small;
   }
 }
